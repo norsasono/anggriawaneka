@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Anggriawan Eka Wardhana</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Professional Trainer &#38; Motivator</description>
+	<lastBuildDate>Tue, 07 Apr 2020 02:05:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/02/cropped-profile-1-32x32.png</url>
+	<title>Anggriawan Eka Wardhana</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Achievement Motivation Training</title>
+		<link>/2020/02/21/achievement-motivation-training/</link>
+					<comments>/2020/02/21/achievement-motivation-training/#comments</comments>
+		
+		<dc:creator><![CDATA[Anggriawan Eka Wardhana]]></dc:creator>
+		<pubDate>Fri, 21 Feb 2020 17:16:50 +0000</pubDate>
+				<category><![CDATA[Motivasi]]></category>
+		<category><![CDATA[Training]]></category>
+		<category><![CDATA[UNIPMA]]></category>
+		<guid isPermaLink="false">/?p=184</guid>
+
+					<description><![CDATA[Untuk  mencapai tujuan kita, tindakan saja tidak cukup. Kita perlu tindakan  yang konsisten terus-menerus. Setiap pencapaian memerlukan disiplin  pikiran dan disiplin tindakan. Tanpanya, tujuan hanyalah tulisan di atas  kertas.]]></description>
+		
+					<wfw:commentRss>/2020/02/21/achievement-motivation-training/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Public Speaking Batch 7</title>
+		<link>/2019/12/24/public-speaking-batch-7/</link>
+					<comments>/2019/12/24/public-speaking-batch-7/#respond</comments>
+		
+		<dc:creator><![CDATA[Anggriawan Eka Wardhana]]></dc:creator>
+		<pubDate>Tue, 24 Dec 2019 07:21:37 +0000</pubDate>
+				<category><![CDATA[Training]]></category>
+		<guid isPermaLink="false">http://localhost/anggriawaneka/?p=144</guid>
+
+					<description><![CDATA[Kemampuan Public Speaking wajib dimiliki sapapun yang menginginkan kesuksesan. Tak terkecuali Anda. ADA Beberapa yang DAFTAR, Saya KHAWATIR KUOTANYA SEGERA PENUH kalau Anda Menunda DAFTAR SEKARANG TRAINING EXCLUSIVE Peserta TERBATAS 20 Saja. Dalam pelatihan ini PESERTA akan Belajar: &#8211; Teknik-teknik Public Speaking. &#8211; Menginstall Belief System menjadi Public Speaker yang handal. &#8211; Public Speaking Based &#8230; <p class="link-more"><a href="/2019/12/24/public-speaking-batch-7/" class="more-link">Continue reading<span class="screen-reader-text"> "Public Speaking Batch 7"</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2019/12/24/public-speaking-batch-7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Public Speaking Batch 6</title>
+		<link>/2019/12/24/public-speaking-batch-6/</link>
+					<comments>/2019/12/24/public-speaking-batch-6/#respond</comments>
+		
+		<dc:creator><![CDATA[Anggriawan Eka Wardhana]]></dc:creator>
+		<pubDate>Tue, 24 Dec 2019 07:10:04 +0000</pubDate>
+				<category><![CDATA[Training]]></category>
+		<guid isPermaLink="false">http://localhost/anggriawaneka/?p=134</guid>
+
+					<description><![CDATA[Kemampuan Public Speaking wajib dimiliki sapapun yang menginginkan kesuksesan. Tak terkecuali Anda. ADA Beberapa yang DAFTAR, Saya KHAWATIR KUOTANYA SEGERA PENUH kalau Anda Menunda DAFTAR SEKARANG TRAINING EXCLUSIVE Peserta TERBATAS 20 Saja. TRAINING PUBLIC SPEAKING Batch #6 Pelatihan Menjadi Pembicara Publik. #Dalam Pelatihan Ini PESERTA akan Belajar: &#8211; Teknik-teknik Public Speaking. &#8211; Menginstall Belief System &#8230; <p class="link-more"><a href="/2019/12/24/public-speaking-batch-6/" class="more-link">Continue reading<span class="screen-reader-text"> "Public Speaking Batch 6"</span></a></p>]]></description>
+		
+					<wfw:commentRss>/2019/12/24/public-speaking-batch-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
